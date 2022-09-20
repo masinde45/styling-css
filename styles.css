@@ -1,0 +1,19 @@
+h1 {
+    background-color: red;
+}
+#division {
+    color: red;
+    text-align: right;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: chocolate;
+}
+.one {
+    color: red;
+}
+.black {
+    color: blue;
+}
+.sweet {
+    color: yellow;
+}
